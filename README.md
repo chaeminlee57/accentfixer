@@ -28,5 +28,6 @@ At launch, the project will support General American accent. I plan to add a Bri
 
 - Privacy Breach Risk:
   - Audio files will be immediately deleted after inference in the Flask API.
+
 - Fairness and Bias Risk:
   - A disclaimer will be included about variable accuracy across accents. Certain accents may be underrepresented due to the nature of dataset utilized.
