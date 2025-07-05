@@ -13,7 +13,8 @@ At launch, the project will support General American accent. I plan to add a Bri
 - **Back-end**  
   - Python 3.10  
   - FastAPI (or Flask) for REST API  
-  - PyTorch + Hugging Face Transformers (Wav2Vec 2.0)  
+  - PyTorch + Hugging Face Transformers (Wav2Vec 2.0)
+  - Aeneas or Gentle (forced alignment for phoneme timing)
 
 - **DevOps & CI/CD**  
   - Docker for containerization  
