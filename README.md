@@ -32,3 +32,9 @@ At launch, the project will support General American accent. I plan to add a Bri
 
 - Fairness and Bias Risk:
   - A disclaimer will be included about variable accuracy across accents. Certain accents may be underrepresented due to the nature of dataset utilized.
+
+## Limitations
+
+- Specificity of phoneme difference analysis (alignment tool is Aeneas or Gentle)
+  - Aim to improve later using formant analysis (F1, F2, F3) and providing quantitative, clear feedback for pronounciation.
+- Normalization for Speaker Differences (gender, age, etc)
